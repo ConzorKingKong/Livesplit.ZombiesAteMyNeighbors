@@ -1,4 +1,4 @@
-# Zombies Ate My Neighbors autosplitter
+# Zombies Ate My Neighbors Autosplitter
 
 This is an autosplitter for ZAMN on snes9x-x64 v1.56.2. The timer starts approximately when the first frame is started on the game, allowing you to sync up w the bazooka or Skeleton Key depending on the run you're doing. Seems like the timer syncs a little different on here though than with a SNES reset.
 
