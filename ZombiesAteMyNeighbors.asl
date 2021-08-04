@@ -28,7 +28,7 @@ start {
 }
 
 split {
-	if (current.victims == 0 && old.victims =3= 10) {
+	if (current.victims == 0 && old.victims != 0) {
 		return true;
 	}
 }
